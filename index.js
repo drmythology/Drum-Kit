@@ -1,10 +1,4 @@
-// document.addEventListener("click", function (){
-//     if (event.target.matches("button")){
-//         // alert("I got clicked!");
-//         var tom1 = new Audio('sounds/tom-1.mp3');
-//         tom1.play();
-//     }
-// })
+// Welcome to Drum Kit Project
 
 // Waiting for button press......
 var numberOfDrumButtons = document.querySelectorAll(".drum").length;
